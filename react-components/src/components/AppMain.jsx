@@ -8,7 +8,7 @@ export default function AppMain() {
 
             <section>
                 <div>
-                    <img src="499725.jpg" alt="" />
+                    <img src="../assets/499725.jpg" alt="" />
                 </div>
             </section>
         </main>

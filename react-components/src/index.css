@@ -1,8 +1,10 @@
 footer {
   background-color: black;
   color: whitesmoke;
+  margin: 0;
+  padding: 2rem;
 }
 
 #root {
-  margin: 0;
+  text-align: center;
 }
