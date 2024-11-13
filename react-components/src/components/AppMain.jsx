@@ -6,14 +6,14 @@ export default function AppMain() {
             title: "Margherita",
             description: "Lorem ipsum, Margherita siat amet consectetur adipisicing elit. Omnis quisquam ut aperiam hic atque at ab rem corporis veniam repudiandae nihil, dolores ipsa laboriosam, recusandae soluta quo impedit. Unde, tempora.",
             button: "LEGGI DI PIU'",
-            img: "../assets/499725.jpg"
+            img: "/img/499725.jpg"
         },
         {
             id: 2,
             title: "Cacio e Pepe",
             description: "Lorem ipsum, Cacio e Pepe sit amet consectetur adipisicing elit. Omnis quisquam ut aperiam hic atque at ab rem corporis veniam repudiandae nihil, dolores ipsa laboriosam, recusandae soluta quo impedit. Unde, tempora.",
             button: "LEGGI DI PIU'",
-            img: "../assets/499725.jpg"
+            img: "/img/499725.jpg"
         }
     ];
 
