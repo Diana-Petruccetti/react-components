@@ -4,7 +4,7 @@ export default function AppMain() {
         {
             id: 1,
             title: "Buona la pizza!",
-            description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis quisquam ut aperiam hic atque at ab rem corporis veniam repudiandae nihil, dolores ipsa laboriosam, recusandae soluta quo impedit. Unde, tempora.",
+            description: "Lorem ipsum, dolor siat amet consectetur adipisicing elit. Omnis quisquam ut aperiam hic atque at ab rem corporis veniam repudiandae nihil, dolores ipsa laboriosam, recusandae soluta quo impedit. Unde, tempora.",
             button: "LEGGI DI PIU'",
             img: "../assets/499725.jpg"
         },
